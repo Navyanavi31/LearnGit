@@ -1,2 +1,3 @@
-print('hello")
-print('hii')
+print('hello!")
+print('hii!')
+print('heyy!')
